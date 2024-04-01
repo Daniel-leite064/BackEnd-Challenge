@@ -22,25 +22,25 @@ Para entrar no container localstack e gerenciar serviços (AWS CLI inclusa):
 docker exec -it localstack bash
 
 
-Requisitos a desenvolver:
+## Requisitos a desenvolver:
 
-# Eu como entregador quero alugar uma moto por um período.
+- Eu como entregador quero alugar uma moto por um período.
 
-# Eu como entregador quero informar a data que irei devolver a moto e consultar o valor total da locação.
+- Eu como entregador quero informar a data que irei devolver a moto e consultar o valor total da locação.
 
-# Eu como admin quero cadastrar um pedido na plataforma e disponibilizar para os entregadores aptos efetuarem a entrega.
+- Eu como admin quero cadastrar um pedido na plataforma e disponibilizar para os entregadores aptos efetuarem a entrega.
 
-# Eu como admin quero consultar todos entregadoeres que foram notificados de um pedido.
+- Eu como admin quero consultar todos entregadoeres que foram notificados de um pedido.
 
-# Eu como entregador quero aceitar um pedido.
+- Eu como entregador quero aceitar um pedido.
 
-# Eu como entregador quero efetuar a entrega do pedido.
+- Eu como entregador quero efetuar a entrega do pedido.
 
 
-Diferenciais a desenvolver:
+## Diferenciais a desenvolver:
 
-# Testes unitários
+- Testes unitários
 
-# Testes de integração
+- Testes de integração
 
-# Logs bem estruturados
+- Logs bem estruturados
